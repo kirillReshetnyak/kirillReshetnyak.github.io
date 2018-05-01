@@ -1,0 +1,31 @@
+#mn {
+	background-color: #CF6;
+	position: absolute;
+	height: 100%;
+	width: 25%;
+	top: 30%;
+	right: 70%;
+	left: 0%;
+}
+#shapka {
+	background-color: #FC6;
+	background-image: url(1.png);
+	height: 30%;
+	width: 100%;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	right: 0%;
+}
+#block {
+	background-color: #FC0;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 30%;
+	left: 25%;
+	color: #000;
+}
+#block p {
+
+}
